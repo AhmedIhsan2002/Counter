@@ -1,0 +1,44 @@
+.Main__Container{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.Main__Container--padding{
+    padding: 1rem 0;
+}
+
+@media (max-width:575px){
+    .Main__Container{
+        width: 98%;
+    }
+}
+
+@media (min-width:576px){
+    .Main__Container{
+        width: 95%;
+    }
+}
+
+@media (max-width:568px){
+    .Main__Container{
+        width: 90%;
+    }
+}
+
+@media (max-width:992px){
+    .Main__Container{
+        width: 85%;
+    }
+}
+
+@media (max-width:575px){
+    .Main__Container{
+        width: 98%;
+    }
+}
+
+@media (max-width:1400px){
+    .Main__Container{
+        width: 80%;
+    }
+}
